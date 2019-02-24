@@ -24,8 +24,13 @@ $ netstat -an | grep <port number>
 
 ### Version 2
 
+Server with threads. The server echoes what it receives.
+The client takes input from the command line and fires it
+off to the server.
+
 
 ### Version 3
+
 
 
 ### Version 4
